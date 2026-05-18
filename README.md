@@ -33,8 +33,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saurav-mondol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-mondol&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-saurav-mondol.vercel.app/api?username=saurav-mondol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats-saurav-mondol.vercel.app/api/top-langs/?username=saurav-mondol&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saurav-mondol&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
