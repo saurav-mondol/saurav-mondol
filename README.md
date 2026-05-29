@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&labelColor=0D1117" />
 </p>
 
----
+
 
 ### 👨‍💻 About Me
 ```yaml
@@ -30,7 +30,7 @@ hobby: Travelling ✈️
 fun_fact: "I rank pages on Google, soon I'll build them too."
 ```
 
----
+
 
 ### 🛠️ Tech Stack
 <table align="center">
@@ -52,7 +52,6 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   </tr>
 </table>
 
----
 
 ### 📊 GitHub Analytics
 <p align="center">
@@ -63,21 +62,21 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saurav-mondol&layout=compact&hide_border=true&langs_count=8&card_width=450&bg_color=0D1117&title_color=00C2CB&text_color=C9D1D9&cache_seconds=86400" />
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=saurav-mondol&theme=onestar&no-frame=true&row=2&column=3&margin-w=10" />
 </p>
----
+
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/saurav-mondol/saurav-mondol/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+
 
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-mondol&theme=react-dark&bg_color=0D1117&color=00C2CB&line=0077B5&point=ffffff&hide_border=true&area=true" />
 </p>
 
----
+
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -86,7 +85,7 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   <a href="mailto:sauravmondolhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,50:0077B5,100:0D1117&height=100&section=footer" />
