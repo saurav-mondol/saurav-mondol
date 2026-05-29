@@ -18,8 +18,11 @@ I'm an SEO Specialist who has spent years ranking websites and growing organic t
 My goal is simple: combine proven SEO expertise with full-stack engineering to ship web applications that perform in search and in production.
 
 🔍 &nbsp; **Now** — Driving search visibility and on-page performance for clients
+
 🌱 &nbsp; **Building** — Full-stack web apps with the MERN stack
+
 🤝 &nbsp; **Open to** — Freelance work, remote roles, and collaboration
+
 📫 &nbsp; **Email** — sauravmondolhere@gmail.com
 
 <br>
