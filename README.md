@@ -20,16 +20,16 @@
 <br><br>
 
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 ```yaml
-name: Saurav Mondol
-location: Khulna, Bangladesh 🇧🇩
-current_role: SEO Specialist
-becoming: Full-Stack Web Developer
-learning: [React, Node.js, Express, MongoDB]
-open_to: [Freelance, Remote Work, Collaboration]
-hobby: Travelling ✈️
-fun_fact: "I rank pages on Google, soon I'll build them too."
+name:         Saurav Mondol
+location:     Khulna, Bangladesh 🇧🇩
+role:         SEO Specialist
+becoming:     Full-Stack Web Developer
+learning:     [ React, Node.js, Express, MongoDB ]
+open_to:      [ Freelance, Remote Work, Collaboration ]
+hobby:        Travelling ✈️
+motto:        "I rank pages on Google, soon I'll build them too."
 ```
 <br><br>
 
