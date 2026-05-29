@@ -17,6 +17,8 @@
 </p>
 
 
+<br>
+
 
 ### 👨‍💻 About Me
 ```yaml
@@ -29,7 +31,7 @@ open_to: [Freelance, Remote Work, Collaboration]
 hobby: Travelling ✈️
 fun_fact: "I rank pages on Google, soon I'll build them too."
 ```
-
+<br>
 
 
 ### 🛠️ Tech Stack
@@ -52,7 +54,7 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   </tr>
 </table>
 
-
+<br>
 ### 📊 GitHub Analytics
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saurav-mondol&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=00C2CB&icon_color=0077B5&text_color=C9D1D9&cache_seconds=86400" />
@@ -63,12 +65,12 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=saurav-mondol&theme=onestar&no-frame=true&row=2&column=3&margin-w=10" />
 </p>
 
-
+<br>
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/saurav-mondol/saurav-mondol/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
+<br>
 
 
 ### 📈 Activity Graph
@@ -76,7 +78,7 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-mondol&theme=react-dark&bg_color=0D1117&color=00C2CB&line=0077B5&point=ffffff&hide_border=true&area=true" />
 </p>
 
-
+<br>
 
 ### 🌐 Connect with Me
 <p align="center">
