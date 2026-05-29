@@ -18,11 +18,8 @@ I'm an SEO Specialist who has spent years ranking websites and growing organic t
 My goal is simple: combine proven SEO expertise with full-stack engineering to ship web applications that perform in search and in production.
 
 🔍 &nbsp; **Now** — Driving search visibility and on-page performance for clients
-
 🌱 &nbsp; **Building** — Full-stack web apps with the MERN stack
-
 🤝 &nbsp; **Open to** — Freelance work, remote roles, and collaboration
-
 📫 &nbsp; **Email** — sauravmondolhere@gmail.com
 
 <br>
@@ -30,14 +27,28 @@ My goal is simple: combine proven SEO expertise with full-stack engineering to s
 ## 🛠️ Tech Stack
 
 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" /><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45" /><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="45" /><br>Vite</td>
+  </tr>
+</table>
 
 **Backend & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="45" /><br>Express</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45" /><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" /><br>VS Code</td>
+  </tr>
+</table>
 
 <br>
 
