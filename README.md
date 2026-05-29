@@ -30,28 +30,14 @@ My goal is simple: combine proven SEO expertise with full-stack engineering to s
 ## 🛠️ Tech Stack
 
 **Frontend**
-<table>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" /><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" /><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" /><br>JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45" /><br>Tailwind</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" /><br>React</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="45" /><br>Vite</td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite&theme=dark" />
+</p>
 
 **Backend & Tools**
-<table>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45" /><br>Node.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="45" /><br>Express</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45" /><br>MongoDB</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" /><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" /><br>VS Code</td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode&theme=dark" />
+</p>
 
 <br>
 
