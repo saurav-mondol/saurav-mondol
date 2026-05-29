@@ -18,7 +18,7 @@ I'm a SEO Specialist with hands-on experience ranking websites and driving organ
 - 🔍 **Now:** Improving search visibility and on-page performance for clients
 - 🌱 **Building toward:** Full-stack development with the MERN stack
 - 🤝 **Open to:** Freelance projects, remote roles, and collaboration
-- 📫 **Contact:** sauravmondolhere@gmail.com
+
 
 <br>
 
