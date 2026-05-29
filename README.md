@@ -24,27 +24,27 @@ I'm a SEO Specialist with hands-on experience ranking websites and driving organ
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+#### Frontend
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" /><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" /><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" /><br>JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45" /><br>Tailwind</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" /><br>React</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="45" /><br>Vite</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /><br><sub><b>HTML</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /><br><sub><b>CSS</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /><br><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br><sub><b>React</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /><br><sub><b>Vite</b></sub></td>
   </tr>
 </table>
 
-**Backend & Tools**
+#### Backend & Tools
 <table>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45" /><br>Node.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="45" /><br>Express</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45" /><br>MongoDB</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" /><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" /><br>VS Code</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /><br><sub><b>Express</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br><sub><b>Git</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br><sub><b>VS Code</b></sub></td>
   </tr>
 </table>
 
