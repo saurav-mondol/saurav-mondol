@@ -56,14 +56,13 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saurav-mondol&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=00C2CB&icon_color=0077B5&text_color=C9D1D9&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saurav-mondol&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=00C2CB&icon_color=0077B5&text_color=C9D1D9&cache_seconds=86400" />
   <img height="170" src="https://streak-stats.demolab.com?user=saurav-mondol&hide_border=true&card_width=380&background=0D1117&ring=00C2CB&fire=00C2CB&currStreakLabel=00C2CB&sideLabels=C9D1D9&dates=8B949E&stroke=0077B5&sideNums=C9D1D9&currStreakNum=C9D1D9" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-mondol&layout=compact&hide_border=true&langs_count=8&card_width=450&bg_color=0D1117&title_color=00C2CB&text_color=C9D1D9&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saurav-mondol&layout=compact&hide_border=true&langs_count=8&card_width=450&bg_color=0D1117&title_color=00C2CB&text_color=C9D1D9&cache_seconds=86400" />
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=saurav-mondol&theme=onestar&no-frame=true&row=2&column=3&margin-w=10" />
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
