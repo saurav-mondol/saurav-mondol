@@ -64,9 +64,7 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
 </p>
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saurav-mondol&layout=compact&hide_border=true&langs_count=8&card_width=450&bg_color=0D1117&title_color=00C2CB&text_color=C9D1D9&cache_seconds=86400" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=saurav-mondol&theme=onestar&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
-
 <br><br>
 
 🐍 Contribution Snake
