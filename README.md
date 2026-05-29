@@ -17,10 +17,10 @@
 </p>
 
 
-<br>
+<br><br>
 
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 ```yaml
 name: Saurav Mondol
 location: Khulna, Bangladesh 🇧🇩
@@ -31,10 +31,10 @@ open_to: [Freelance, Remote Work, Collaboration]
 hobby: Travelling ✈️
 fun_fact: "I rank pages on Google, soon I'll build them too."
 ```
-<br>
+<br><br>
 
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" /><br>HTML</td>
@@ -54,8 +54,10 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   </tr>
 </table>
 
-<br>
-### 📊 GitHub Analytics
+<br><br>
+
+
+📊 GitHub Analytics
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saurav-mondol&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=00C2CB&icon_color=0077B5&text_color=C9D1D9&cache_seconds=86400" />
   <img height="170" src="https://streak-stats.demolab.com?user=saurav-mondol&hide_border=true&card_width=380&background=0D1117&ring=00C2CB&fire=00C2CB&currStreakLabel=00C2CB&sideLabels=C9D1D9&dates=8B949E&stroke=0077B5&sideNums=C9D1D9&currStreakNum=C9D1D9" />
@@ -65,22 +67,24 @@ fun_fact: "I rank pages on Google, soon I'll build them too."
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=saurav-mondol&theme=onestar&no-frame=true&row=2&column=3&margin-w=10" />
 </p>
 
-<br>
-### 🐍 Contribution Snake
+<br><br>
+
+🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/saurav-mondol/saurav-mondol/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<br>
+ 
+<br><br>
 
 
-### 📈 Activity Graph
+📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurav-mondol&theme=react-dark&bg_color=0D1117&color=00C2CB&line=0077B5&point=ffffff&hide_border=true&area=true" />
 </p>
 
-<br>
+<br><br>
 
-### 🌐 Connect with Me
+🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sauravmondol/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://x.com/SauravMondol_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" /></a>
