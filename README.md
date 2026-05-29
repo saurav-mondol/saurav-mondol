@@ -15,13 +15,10 @@
 
 I'm a SEO Specialist with hands-on experience ranking websites and driving organic traffic. I'm now expanding into full-stack web development to build the products I've spent years optimizing, combining technical SEO insight with real engineering skills.
 
- <ul>
-  <li>🔍 **Now:** Improving search visibility and on-page performance for clients</li>
-🌱 **Building toward:** Full-stack development with the MERN stack
-🤝 **Open to:** Freelance projects, remote roles, and collaboration
- 📫 **Contact:** sauravmondolhere@gmail.com
-
- <ul/>
+- 🔍 **Now:** Improving search visibility and on-page performance for clients
+- 🌱 **Building toward:** Full-stack development with the MERN stack
+- 🤝 **Open to:** Freelance projects, remote roles, and collaboration
+- 📫 **Contact:** sauravmondolhere@gmail.com
 
 <br>
 
